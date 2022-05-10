@@ -1,0 +1,27 @@
+{
+  "id": "1bf79482-cdc4-460a-bf87-951bafe22ea6",
+  "name": "Airport",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject1.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0",
+  "target": "OnPrem"
+}

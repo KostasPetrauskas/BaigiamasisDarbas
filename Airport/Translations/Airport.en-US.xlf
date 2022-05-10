@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Airport">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 841009964 - Field 4184486914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional Cost Kg</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Additional Luggage Cost - Field Additional Cost Kg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 841009964 - Field 749138068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airlines Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Additional Luggage Cost - Field Airlines Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 841009964 - Field 2435602017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allowed Amount Of Luggage</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Additional Luggage Cost - Field Allowed Amount Of Luggage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 841009964 - Field 2099697068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allowed Weight</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Additional Luggage Cost - Field Allowed Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1741758744 - Field 811952631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boarding Gate</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flight Destination - Field Boarding Gate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1741758744 - Field 3040929904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flight Destination - Field Destination - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1741758744 - Field 1807381593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight No.</source>
+          <target state="translated">Flight No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flight Destination - Field Flight No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1741758744 - Field 1958180954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flight Destination - Field From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1741758744 - Field 944600475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flight Destination - Field Ticket Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 749138068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airlines Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Airlines Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 2003987829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airplane Model</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Airplane Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 811952631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boarding Gate</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Boarding Gate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 3258031123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Time</source>
+          <target state="translated">Departure Time</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Departure Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 3040929904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Destination - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 330661240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End of Boarding</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field End of Boarding - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 330661240 - Method 2126772001 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End of Boarding cannot start earlier than Start of Boarding</source>
+          <target state="translated">End of Boarding cannot start earlier than Start of Boarding</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field End of Boarding - Method OnValidate - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 353603177 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End of Registration</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field End of Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 353603177 - Method 2126772001 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End of Registration cannot start earlier than Start of Registration</source>
+          <target state="translated">End of Registration cannot start earlier than Start of Registration</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field End of Registration - Method OnValidate - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 2583780888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight Date</source>
+          <target state="translated">Flight Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Flight Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 1807381593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight No.</source>
+          <target state="translated">Flight No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Flight No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 1958180954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 3759041548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Finished</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Is Finished - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 2526241074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Seats</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field No. of Seats - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 853861773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start of Boarding</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Start of Boarding - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 853861773 - Method 2126772001 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start of Boarding cannot start later than End of Boarding</source>
+          <target state="translated">Start of Boarding cannot start later than End of Boarding</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Start of Boarding - Method OnValidate - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 3522901308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start of Registration</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Start of Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 3522901308 - Method 2126772001 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start of Registration cannot start later than End of Registration</source>
+          <target state="translated">Start of Registration cannot start later than End of Registration</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Start of Registration - Method OnValidate - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 944600475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field Ticket Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3399143381 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Flights - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 749138068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airlines Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Airlines Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 2042430121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Of Luggage</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Amount Of Luggage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 3258031123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Time</source>
+          <target state="translated">Departure Time</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Departure Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 3040929904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Destination - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 2583780888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight Date</source>
+          <target state="translated">Flight Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Flight Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 1807381593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight No.</source>
+          <target state="translated">Flight No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Flight No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 1958180954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 153412319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luggage No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Luggage No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 970361615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Passenger No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target state="translated">Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 3430636682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 308913762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seat Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Seat Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 2572845453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Ticket No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 944600475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Ticket Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 3692706522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1310626057 - Field 1856434143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Purchase Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Journal Line - Field Total Purchase Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 749138068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airlines Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Airlines Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 2042430121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Of Luggage</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Amount Of Luggage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 2597136708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checked In</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Checked In - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 3258031123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Time</source>
+          <target state="translated">Departure Time</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Departure Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 2583780888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight Date</source>
+          <target state="translated">Flight Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Flight Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 1807381593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight No.</source>
+          <target state="translated">Flight No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Flight No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 153412319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luggage No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Luggage No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 970361615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Passenger No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target state="translated">Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 3430636682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 308913762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seat Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Seat Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 2572845453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Ticket No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 944600475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Ticket Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 3692706522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3780756299 - Field 1856434143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Purchase Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ledger Entry - Field Total Purchase Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1030043473 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luggage Price - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1030043473 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luggage Price - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 3367016393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount of Luggage</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Amount of Luggage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 2583780888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight Date</source>
+          <target state="translated">Flight Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Flight Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 1807381593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight No.</source>
+          <target state="translated">Flight No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Flight No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 231998036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Paid Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Paid Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 2228262969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Passenger ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 71576697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger Last Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Passenger Last Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 767439439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Passenger Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 3430636682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 308913762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seat Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Seat Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 2572845453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Ticket No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 944600475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Ticket Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3569126910 - Field 1903186164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Sold</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Passenger - Field Ticket Sold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 841009964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional Luggage Cost</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Additional Luggage Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 749138068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airlines Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Airlines Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 2042430121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Of Luggage</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Amount Of Luggage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 3258031123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Time</source>
+          <target state="translated">Departure Time</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Departure Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 3040929904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Destination - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 2583780888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight Date</source>
+          <target state="translated">Flight Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Flight Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 1807381593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight No.</source>
+          <target state="translated">Flight No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Flight No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 1958180954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 3441760554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued By</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Issued By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 277732774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luggage weight</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Luggage weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 2228262969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Passenger ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 71576697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger Last Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Passenger Last Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 767439439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Passenger Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target state="translated">Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 3430636682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 308913762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seat Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Seat Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 2572845453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Ticket No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 944600475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Ticket Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 1903186164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Sold</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Ticket Sold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 3692706522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 638393426 - Field 1856434143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Purchase Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Header - Field Total Purchase Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3536159737 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3536159737 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3536159737 - Field 153412319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luggage No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Line - Field Luggage No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3536159737 - Field 1030043473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luggage Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Line - Field Luggage Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3536159737 - Field 3430636682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Line - Field Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 841009964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional Luggage Cost</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Additional Luggage Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 749138068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airlines Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Airlines Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 2042430121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Of Luggage</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Amount Of Luggage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 811952631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boarding Gate</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Boarding Gate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 3258031123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Time</source>
+          <target state="translated">Departure Time</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Departure Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 3258031123 - Method 2126772001 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Flight No." field is empty. Fill in "Flight No." field before entering "Departure Time"</source>
+          <target state="translated">"Flight No." field is empty. Fill in "Flight No." field before entering "Departure Time"</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Departure Time - Method OnValidate - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 3258031123 - Method 2126772001 - NamedType 2499368031" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Flight Date" field is empty. Fill in "Flight Date" field before entering "Departure Time"</source>
+          <target state="translated">"Flight Date" field is empty. Fill in "Flight Date" field before entering "Departure Time"</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Departure Time - Method OnValidate - NamedType text10001</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 3040929904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Destination - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 2583780888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight Date</source>
+          <target state="translated">Flight Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Flight Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 2583780888 - Method 2126772001 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Flight No." field is empty. Fill in "Flight No." field before entering "Flight Date"</source>
+          <target state="translated">"Flight No." field is empty. Fill in "Flight No." field before entering "Flight Date"</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Flight Date - Method OnValidate - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 1807381593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight No.</source>
+          <target state="translated">Flight No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Flight No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 1958180954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 3441760554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued By</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Issued By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 277732774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luggage weight</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Luggage weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 2228262969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Passenger ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 71576697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger Last Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Passenger Last Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 767439439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Passenger Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target state="translated">Posting Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 856236780 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registered</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Registered - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 3430636682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 308913762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seat Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Seat Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 2572845453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Ticket No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 944600475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Ticket Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 3692706522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2833460834 - Field 1856434143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Purchase Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Header - Field Total Purchase Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3206738537 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3206738537 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3206738537 - Field 153412319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luggage No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Line - Field Luggage No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3206738537 - Field 1030043473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luggage Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Line - Field Luggage Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3206738537 - Field 3430636682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Registration Line - Field Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1514883969 - Field 2577258005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Nos.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup - Field Document Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1514883969 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1514883969 - Field 743300146 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger Nos.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup - Field Passenger Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1514883969 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1514883969 - Field 1098326638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration Header Nos.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup - Field Registration Header Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1514883969 - Field 2473211023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration Nos.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup - Field Registration Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1514883969 - Field 4208998556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Nos.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup - Field Ticket Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 598332565 - Field 749138068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airlines Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sold Tickets - Field Airlines Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 598332565 - Field 2583780888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight Date</source>
+          <target state="translated">Flight Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sold Tickets - Field Flight Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 598332565 - Field 1807381593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight No.</source>
+          <target state="translated">Flight No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sold Tickets - Field Flight No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 598332565 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sold Tickets - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 598332565 - Field 2228262969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sold Tickets - Field Passenger ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 598332565 - Field 71576697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger Last Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sold Tickets - Field Passenger Last Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 598332565 - Field 767439439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passenger Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sold Tickets - Field Passenger Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 598332565 - Field 2572845453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sold Tickets - Field Ticket No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 598332565 - Field 944600475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Price</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sold Tickets - Field Ticket Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3256799334 - Control 3951646379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Time</source>
+          <target state="translated">Departure Time</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Boarding - Control DepartureTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3256799334 - Control 449040336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight Date</source>
+          <target state="translated">Flight Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Boarding - Control FlightDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3256799334 - Control 2674709949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight No.</source>
+          <target state="translated">Flight No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Boarding - Control FlightNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1336594629 - Control 3951646379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Time</source>
+          <target state="translated">Departure Time</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Boarding With Filters - Control DepartureTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1336594629 - Control 449040336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight Date</source>
+          <target state="translated">Flight Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Boarding With Filters - Control FlightDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1336594629 - Control 2674709949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight No.</source>
+          <target state="translated">Flight No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Boarding With Filters - Control FlightNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3399143381 - Control 2708250016 - Method 1213635141 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boarding Agent allready has flight assigned at this Departure Time</source>
+          <target state="translated">Boarding Agent allready has flight assigned at this Departure Time</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flights - Control User ID - Method OnLookup - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Page 2917078478 - Control 3811590374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose starting date of the period</source>
+          <target state="translated">Choose starting date of the period</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Period Dates - Control Date From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2917078478 - Control 2164282105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose ending date of the period</source>
+          <target state="translated">Choose ending date of the period</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Period Dates - Control Date To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 684573827 - Control 308913762 - Method 2126772001 - NamedType 2499368031" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter weight of luggage in "Luggage weight" field</source>
+          <target state="translated">Enter weight of luggage in "Luggage weight" field</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Registration - Control Seat Code - Method OnValidate - NamedType text10001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1870915066 - Action 3708334675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Add Dimension</source>
+          <target state="translated">Add Dimension</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50010 - Action Add Dimension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1870915066 - Action 1450475603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Delete Dimension</source>
+          <target state="translated">Delete Dimension</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50010 - Action Delete Dimension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 51711830 - Field 3679099764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Is Luggage</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50000 - Field Is Luggage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2895122723 - Field 2681688346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Is Role</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextensionUserSetup - Field Is Role - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
